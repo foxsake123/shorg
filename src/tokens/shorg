@@ -1,7 +1,7 @@
 {
   "chainId": 101,                  // 101 for mainnet-beta, 102 for testnet, 103 for devnet
   "address": 5oKiBTTUutgk95g4MEgxUHtWJ9n21QXPSAusL6ic8KgM,
-  "symbol": SHRG,                // e.g., "MEME"
+  "symbol": LIST,                // e.g., "MEME"
   "name": Unburdened,          // e.g., "My Meme Coin"
   "decimals": 9,                   // Or however many decimals your token uses
   "logoURI": "https://your-logo.png", // URL to your token’s logo
